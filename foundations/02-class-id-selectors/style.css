@@ -1,0 +1,20 @@
+.odd-num{
+    background-color: rgb(246, 155, 170);
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd-num.adjusted{
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(146, 255, 122);
+    font-size: 24px;
+    font-weight: bold;
+}
